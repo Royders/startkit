@@ -1,0 +1,16 @@
+{"level":"error","label":"order-api errors","timestamp":"2019-04-26T04:15:40.332Z"}
+{"level":"error","label":"order-api errors","timestamp":"2019-04-26T04:16:02.584Z"}
+{"level":"error","label":"order-api errors","timestamp":"2019-04-26T04:17:15.093Z"}
+{"level":"error","label":"order-api errors","timestamp":"2019-04-26T04:19:08.940Z"}
+{"level":"error","label":"order-api errors","timestamp":"2019-04-26T04:19:29.573Z"}
+{"level":"error","label":"order-api errors","timestamp":"2019-04-26T04:19:55.427Z"}
+{ level: 'error', timestamp: '2019-04-26T04:22:45.511Z' }
+{"level":"error","label":"order-api errors","timestamp":"2019-04-26T04:36:57.349Z"}
+{"level":"error","label":"order-api errors","timestamp":"2019-04-26T04:37:14.136Z"}
+[2019-04-26T04:38:22.542Z] [error] => kaputt
+[2019-04-26T04:38:54.645Z] [error] => kaputt
+[2019-04-26T05:03:27.992Z] [error] => kaputt
+[2019-04-26T05:03:52.373Z] [error] => kaputt
+[2019-04-26T05:05:20.594Z] [error] => kaputt
+[2019-04-26T05:05:43.615Z] [error] => kaputt
+[2019-04-26T05:06:10.179Z] [error] => kaputt
